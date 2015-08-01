@@ -8,4 +8,6 @@ Here, users of ASF can find information how the framework is used in different c
 
 [General advice](https://github.com/OptimalBPM/angular-schema-form-garden/edit/master/Advice.md)
 
+General advice on how to build solutions based on the ASF framework.
 
+[Examples](https://github.com/OptimalBPM/angular-schema-form-garden/edit/master/examples/README.md)
